@@ -22,3 +22,9 @@
 <br clear="both">
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/joseane661/output/snake.svg" alt="Snake animation" />
+
+###
