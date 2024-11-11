@@ -11,8 +11,6 @@
   <img width="12" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joseane661/joseane661/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/joseane661/joseane661/blob/output/github-contribution-grid-snake.svg)
 
 ###
